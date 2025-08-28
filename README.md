@@ -15,3 +15,7 @@ This repository was automatically updated.
 - Repository maintenance on August 25, 2025
 - Automated updates active
 
+
+## Version
+Current version: v7.4.7
+
