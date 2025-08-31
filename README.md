@@ -19,3 +19,7 @@ This repository was automatically updated.
 ## Version
 Current version: v7.4.7
 
+
+## Version
+Current version: v3.9.5
+
